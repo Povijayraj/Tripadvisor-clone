@@ -19,3 +19,5 @@ This project was created to practice front-end web development skills and improv
 ## How to Run
 1. Clone or download the repository
 2. Open `index.html` in your browser
+
+    https://povijayraj.github.io/Tripadvisor-clone/
