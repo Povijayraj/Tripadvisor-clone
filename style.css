@@ -692,12 +692,18 @@ body {
 
 /* media queries */
 
+@media screen and (max-width:1024px){
+    .categories {
+        display: none;
+    }
+}
+
 @media screen and (max-width:900px) {
    body{
     font-size: 10px;
    }
     .navbar__s2, .navbar__s3,
-    .navbar__s4 , .navbar__s5, .categories , .offer__image , .Awards__image{
+    .navbar__s4 , .navbar__s5,  .offer__image , .Awards__image{
         display: none;
     }
     
